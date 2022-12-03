@@ -1,5 +1,5 @@
 ﻿north_german={
-	color= rgb{ 26 22 15 }
+	color= rgb{ 96 101 105 }
 	religion = protestant
 	traits = { german_speaking european_heritage }
 	male_common_first_names={
